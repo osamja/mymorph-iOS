@@ -17,7 +17,11 @@ MyMorph is a react-native iOS app that lets you morph two faces together using o
 
 ## Architecture
 [MyMorph.pdf](https://github.com/osamja/mymorph-iOS/files/11779790/MyMorph.pdf)
+![Capture](https://github.com/osamja/mymorph-iOS/assets/6632957/2b77ba7e-495d-4fe5-8200-fa4931d2ef96)
 
+## Contribution
+
+- One blocker for contributions at the moment is that there is no way to login to the app in the developer environment using Expo Go.  A workaround is to make the Morph screen the default instead of Login.
 
 ## Features
 
