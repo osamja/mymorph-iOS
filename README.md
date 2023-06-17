@@ -15,6 +15,10 @@ MyMorph is a react-native iOS app that lets you morph two faces together using o
 - [Development](#development)
 - [License](#license)
 
+## Architecture
+[MyMorph.pdf](https://github.com/osamja/mymorph-iOS/files/11779790/MyMorph.pdf)
+
+
 ## Features
 
 - Upload two images of faces
